@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "thoughtworks",
-        href: "www.thoughtworks.com"
+        href: "https://www.thoughtworks.com"
     },
     {
         title: "Apple",
